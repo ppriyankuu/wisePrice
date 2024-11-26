@@ -28,10 +28,10 @@ export type Product = {
 };
 
 export type NotificationType =
-  | "WELCOME"
-  | "CHANGE_OF_STOCK"
-  | "LOWEST_PRICE"
-  | "THRESHOLD_MET";
+  | 'WELCOME'
+  | 'CHANGE_OF_STOCK'
+  | 'LOWEST_PRICE'
+  | 'THRESHOLD_MET'
 
 export type EmailContent = {
   subject: string;
