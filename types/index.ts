@@ -3,7 +3,7 @@ export type PriceHistoryItem = {
 };
 
 export type User = {
-  email: string;
+  
 };
 
 export type Product = {
