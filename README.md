@@ -6,7 +6,7 @@
 
 <p>1. Install all the dependencies</p>
 
-```bash
+```sh
 $ pnpm i
 ```
 
