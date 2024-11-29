@@ -7,7 +7,7 @@
 <p>1. Install all the dependencies</p>
 
 ```
-pnpm i
+$ pnpm i
 ```
 
 <p>2. Start one mongo Database</p>
@@ -16,6 +16,6 @@ pnpm i
 
 <p>4. Run the development server</p>
 
-```
-pnpm dev
+```bash
+$ pnpm dev
 ```
