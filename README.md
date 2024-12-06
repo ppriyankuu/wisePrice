@@ -16,6 +16,6 @@ $ pnpm i
 
 <p>4. Run the development server</p>
 
-```bash
+```sh
 $ pnpm dev
 ```
