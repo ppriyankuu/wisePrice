@@ -86,6 +86,7 @@ const transporter = nodemailer.createTransport({
   service: "hotmail",
   port: 2525,
   auth: {
+    // personal hotmail ID
     user: "nxtgencranky@outlook.com",
     pass: process.env.EMAIL_PASSWORD,
   },
