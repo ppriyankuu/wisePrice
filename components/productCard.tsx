@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 interface Prop {
-  product: Product;
+  prod: Product;
 }
 
 const ProductCard = ({ product }: Prop) => {
