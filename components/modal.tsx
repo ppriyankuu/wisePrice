@@ -119,7 +119,7 @@ const Modal = ({ productId }: { productId: string }) => {
                   </div>
 
                   <button type="submit" className="dialog-btn">
-                    {isSubmitting ? "Submitting" : "Track"}
+                    {isSubmitted ? "Submitting" : "Track"}
                   </button>
                 </form>
               </div>
