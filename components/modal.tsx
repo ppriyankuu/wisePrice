@@ -8,7 +8,7 @@ import { FormEvent, Fragment, use, useState } from "react";
 const Modal = ({ productId }: { productId: string }) => {
   let [isOpen, setIsOpen] = useState(true);
   const [isSubmitting, setIsSubmitting] = useState(false);
-  const [email, setEmail] = useState("");
+  const [email, setEmail] = useState('');
 
   const handleSubmit = async (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
