@@ -9,7 +9,6 @@
 ```sh
 $ pnpm i
 ```
-
 <p>2. Start one mongo Database</p>
 
 <p>3. Setup the environmental variables</p>
